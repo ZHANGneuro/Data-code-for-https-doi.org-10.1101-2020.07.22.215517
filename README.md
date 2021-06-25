@@ -31,5 +31,4 @@ R studio `1.3.1073`<br />
 Python `3.3.8`<br />
 Conda `4.9.2`<br />
 MNE `v0.23.0`<br />
-<br /><br />
-
+<br />
