@@ -4,17 +4,15 @@ This repository includes behavioral & neuroimaging analyzing codes (MRI/MEG) and
 <br /><br />
 MRI & MEG imaging data, eye data will be avaiable upon request due to their large file size. Please contact Dr. Yuji Naya in the following address:
 <br /><br />
-Yuji Naya (Corresponding author)<br />
-Email: yujin@pku.edu.cn<br />
-McGovern Institute for Brain Research, Peking University<br />
-No. 52, Haidian Road, Wang Kezhen Building, Room 1707<br />
-Haidian District, Beijing 100805, China <br />
-Telephone: +86-10-62765734<br />
+#####Yuji Naya (Corresponding author)<br />
+#####Email: yujin@pku.edu.cn<br />
+#####McGovern Institute for Brain Research, Peking University<br />
+#####No. 52, Haidian Road, Wang Kezhen Building, Room 1707<br />
+#####Haidian District, Beijing 100805, China <br />
+#####Telephone: +86-10-62765734<br />
 <br /><br />
 
 
-
-<br /><br />
 ## Repository structure:
 Note: This repository is a simplified version, a detailed code description will be also aviable upon request, please contact bo.zhang@pku.edu.cn
 
@@ -23,9 +21,9 @@ Note: This repository is a simplified version, a detailed code description will 
 `mvpa_analysis_fsl_glm` to compute representational similarity by create a 2nd level GLM.
 
 
-<br /><br />
+<br />
 ## Env & dependency:
-<br /><br />
+<br />
 MacOS Big Sur `11.4`<br />
 Matlab `R2019b`<br />
 R `4.0.2`<br />
