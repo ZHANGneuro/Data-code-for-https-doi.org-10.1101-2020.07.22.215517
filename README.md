@@ -32,14 +32,21 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- sub_x_formal_Time_record_t.txt &emsp;  ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response`  `` <br />
 │&emsp;&emsp;&emsp;&emsp;<br />
 |-- script_R <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_fmri_beh_format_reorganize.R &emsp; ``reorganize fMRI behavioral data format for further process `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_fmri_beh_format_reorganize.R &emsp; ``reorganize fMRI behavioral data format for further process`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_meg_beh_format_reorganize.R &emsp;  ``reorganize MEG behavioral data format for further process`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_meg.R &emsp;  ``plot number of fixation and saccade for MEG data`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_mri.R &emsp;  ``plot number of fixation and saccade for fMRI data`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_meg.R &emsp;  ``plot position of fixation and saccade for MEG data`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_mri.R &emsp;  ``plot position of fixation and saccade for fMRI data`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_meg_beh.R &emsp;  ``plot behavioral performance for MEG and fMRI data`` <br />
-
+│&emsp;&emsp;&emsp;&emsp;<br />
+|-- script_bash <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_bandpass_filtering.sh &emsp; ``perform bandpass filtering on 4d bold signal series`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_fsf_generator.sh &emsp;  ``reorganize MEG behavioral data format for further process`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_fun2stand.sh &emsp;  ``plot number of fixation and saccade for MEG data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_permutation.sh &emsp;  ``plot number of fixation and saccade for fMRI data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_run_feat.sh &emsp;  ``plot position of fixation and saccade for MEG data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_stand2fun.sh &emsp;  ``plot position of fixation and saccade for fMRI data`` <br />
 
 
 <br /><br />
