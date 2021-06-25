@@ -63,10 +63,8 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_fmri.m &emsp;  ``transforamtion script from standard space to native space`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_mni_r_brain_session_averaged_from_glm.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_ploting_draw_colorbar.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_statistic_contrast.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_statistic_glm.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_statistic_mvpa.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_ploting_draw_colorbar.m &emsp;  ``plot colorbar given value distribution from contrast analysis`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_statistic_glm.m &emsp;  ``perform 2nd level group test (uncorrected)`` <br />
 
 
 <br /><br />
