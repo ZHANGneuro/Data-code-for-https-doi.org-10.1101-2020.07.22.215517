@@ -22,8 +22,8 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 <br />
 .<br />
 |-- beh_eyedata_meg<br />
-│   |--  sub_#_s#_rawdata.txt # sub_no exp_cond map_id enter_dir_id fac_cha_id tar_cha_id hn1_id hn2_id hn3_id prof_id ego_dir cue response <br />
-│   |-- sub_#_s#_timing.txt <br />
+│&nbsp;   |--  sub_#_s#_rawdata.txt # sub_no exp_cond map_id enter_dir_id fac_cha_id tar_cha_id hn1_id hn2_id hn3_id prof_id ego_dir cue response <br />
+│&nbsp;   |-- sub_#_s#_timing.txt <br />
         
         
 
