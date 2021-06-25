@@ -10,18 +10,17 @@ McGovern Institute for Brain Research, Peking University<br />
 No. 52, Haidian Road, Wang Kezhen Building, Room 1707<br />
 Haidian District, Beijing 100805, China <br />
 Telephone: +86-10-62765734<br />
+
+
 <br /><br />
-
-
 ## Repository structure:
 Note: for more detailed code description or questions please contact bo.zhang@pku.edu.cn
-
 <br />
 `ct_by_voxel_fsl.m` to compute correlation matrix across trial-pairs for each image voxel.
 `mvpa_analysis_fsl_glm` to compute representational similarity by create a 2nd level GLM.
 
 
-<br />
+<br /><br />
 ## Env & Dependency:
 <br />
 MacOS Big Sur `11.4`<br />
