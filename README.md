@@ -30,7 +30,14 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- sub_x_formal_rawdata.txt &emsp; ``col indicates `sub_no` `map_id` `enter_dir_id` `head nodding(HD)` `HD response` `HD outcome` `score` `fac_cha_id` `fac_dir_id` `target_dir` `tar_cha_id` `cue` `response` `` <br />
 │&emsp;&emsp;&emsp;&emsp;<br />
 │&emsp;&emsp;&emsp;&emsp; |-- sub_x_formal_Time_record_t.txt &emsp;  ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response`  `` <br />
-
+|-- script_R <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_fmri_beh_format_reorganize.R &emsp; ``reorganize fMRI behavioral data format for further process `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_meg_beh_format_reorganize.R &emsp;  ``reorganize MEG behavioral data format for further process`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_meg.R &emsp;  ``   `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_mri.R &emsp;  ``   `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_meg.R &emsp;  ``   `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_mri.R &emsp;  ``   `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_meg_beh.R &emsp;  ``   `` <br />
 
 
 
