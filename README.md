@@ -47,6 +47,26 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- script_permutation.sh &emsp;  ``permutation test using FSL randomize function`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_run_feat.sh &emsp;  ``script for parallel process`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_stand2fun.sh &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp;<br />
+|-- script_matlab <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_FC_correlation.m &emsp; ``perform bandpass filtering on 4d bold signal series`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_FC_extract_targeting_TRs.m &emsp;  ``generate FSL fsf file for 1st level GLM analysis`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MRI_activity_volume_contrast.m &emsp;  ``transforamtion script from native space to standard space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MRI_timingFile_generator.m &emsp;  ``permutation test using FSL randomize function`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_dicom2nii.m &emsp;  ``script for parallel process`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_number_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_number_mri.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_visual_angle_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_visual_angle_mri.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeDate_gaze_anova_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeDate_gaze_anova_mri2.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_fmri.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_mni_r_brain_session_averaged_from_glm.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_ploting_draw_colorbar.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_statistic_contrast.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_statistic_glm.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_statistic_mvpa.m &emsp;  ``transforamtion script from standard space to native space`` <br />
 
 
 <br /><br />
