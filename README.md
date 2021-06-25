@@ -1,5 +1,4 @@
 ## Data-code-for-https-doi.org-10.1101-2020.07.22.215517
-<br />
 This repository includes behavioral & neuroimaging analyzing codes (MRI/MEG) and data (MRI & MEG behavior) for the manuscript entitled "Distinct networks coupled with parietal cortex for spatial representations inside and outside the visual field" <br />
 doi: https://doi.org/10.1101/2020.07.22.215517  
 <br /><br />
@@ -67,14 +66,14 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- script_statistic_glm.m &emsp;  ``perform 2nd level group test (uncorrected)`` <br />
 │&emsp;&emsp;&emsp;&emsp;<br />
 |-- script_py <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_morph_source_to_fsaverage.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_PLI.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_preprocessing_artificial.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_source_ROI_linechart.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_source_surface_plot.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_activity_contrast.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_activity_main_effect.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_parietal_mask_linechart.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_morph_source_to_fsaverage.py &emsp; ``generate MEG source map and plot on surface`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_PLI.py &emsp; ``perform MEG phase lag index analysis for specific frequency`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_preprocessing_artificial.py &emsp; ``MEG preprocessing & artificial removal`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_source_ROI_linechart.py &emsp; ``plot MEG source time series from ROI`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_source_surface_plot.py &emsp; ``plot MEG source map on surface`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_activity_contrast.py &emsp; ``perform topographic contrast among conditions`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_activity_main_effect.py &emsp; ``perform contrast of topographic map among conditions`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_parietal_mask_linechart.py &emsp; ``plot MEG topographic activity time series from ROI`` <br />
 
 <br /><br />
 ## Env & Dependency:
