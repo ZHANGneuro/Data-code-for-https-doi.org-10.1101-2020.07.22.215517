@@ -23,7 +23,6 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 
 <br /><br />
 ## Env & Dependency:
-<br />
 MacOS Big Sur `11.4`<br />
 Matlab `R2019b`<br />
 R `4.0.2`<br />
