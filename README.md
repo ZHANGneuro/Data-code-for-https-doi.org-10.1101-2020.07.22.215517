@@ -7,23 +7,14 @@ MRI & MEG imaging data, eye data will be avaiable upon request due to their larg
 <br />
 
 ``` diff
-# Yuji Naya (Corresponding author)<br />
-# Email: yujin@pku.edu.cn<br />
-# McGovern Institute for Brain Research, Peking University<br />
-# No. 52, Haidian Road, Wang Kezhen Building, Room 1707<br />
-# Haidian District, Beijing 100805, China<br />
-# Telephone: +86-10-62765734<br />
+Yuji Naya (Corresponding author)<br />
+Email: yujin@pku.edu.cn<br />
+McGovern Institute for Brain Research, Peking University<br />
+No. 52, Haidian Road, Wang Kezhen Building, Room 1707<br />
+Haidian District, Beijing 100805, China<br />
+Telephone: +86-10-62765734<br />
 ```
 
-``` diff
-diff --git a/filea.extension b/fileb.extension
-index d28nd309d..b3nu834uj 111111
---- a/filea.extension
-+++ b/fileb.extension
-@@ -1,6 +1,6 @@
--oldLine
-+newLine
-```
 
 <br /><br />
 ## Repository structure:
