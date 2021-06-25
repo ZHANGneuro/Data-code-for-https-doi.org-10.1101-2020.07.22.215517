@@ -1,7 +1,7 @@
 ## Data-code-for-https-doi.org-10.1101-2020.07.22.215517
 <br />
 This repository includes behavioral & neuroimaging analyzing codes (MRI/MEG) and data (MRI & MEG behavior) for the manuscript entitled "Distinct networks coupled with parietal cortex for spatial representations inside and outside the visual field", doi: https://doi.org/10.1101/2020.07.22.215517  
-<br />
+<br /><br />
 MRI & MEG imaging data, eye data will be avaiable upon request due to their large file size. Please contact Dr. Yuji Naya in the following address:
 <br />
 Yuji Naya (Corresponding author)<br />
