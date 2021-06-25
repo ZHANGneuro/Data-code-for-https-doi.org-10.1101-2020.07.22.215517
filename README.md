@@ -34,11 +34,11 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 |-- script_R <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_fmri_beh_format_reorganize.R &emsp; ``reorganize fMRI behavioral data format for further process `` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_meg_beh_format_reorganize.R &emsp;  ``reorganize MEG behavioral data format for further process`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_meg.R &emsp;  ``   `` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_mri.R &emsp;  ``   `` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_meg.R &emsp;  ``   `` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_mri.R &emsp;  ``   `` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_plot_meg_beh.R &emsp;  ``   `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_meg.R &emsp;  ``plot number of fixation and saccade for MEG data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_mri.R &emsp;  ``plot number of fixation and saccade for fMRI data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_meg.R &emsp;  ``plot position of fixation and saccade for MEG data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_mri.R &emsp;  ``plot position of fixation and saccade for fMRI data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_plot_meg_beh.R &emsp;  ``plot behavioral performance for MEG and fMRI data`` <br />
 
 
 
