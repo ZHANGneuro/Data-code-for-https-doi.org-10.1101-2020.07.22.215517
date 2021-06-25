@@ -42,11 +42,11 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp;<br />
 |-- script_bash <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_bandpass_filtering.sh &emsp; ``perform bandpass filtering on 4d bold signal series`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_fsf_generator.sh &emsp;  ``reorganize MEG behavioral data format for further process`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_fun2stand.sh &emsp;  ``plot number of fixation and saccade for MEG data`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_permutation.sh &emsp;  ``plot number of fixation and saccade for fMRI data`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_run_feat.sh &emsp;  ``plot position of fixation and saccade for MEG data`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_stand2fun.sh &emsp;  ``plot position of fixation and saccade for fMRI data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_fsf_generator.sh &emsp;  ``generate FSL fsf file for 1st level GLM analysis`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_fun2stand.sh &emsp;  ``transforamtion script from native space to standard space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_permutation.sh &emsp;  ``permutation test using FSL randomize function`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_run_feat.sh &emsp;  ``script for parallel process`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_stand2fun.sh &emsp;  ``transforamtion script from standard space to native space`` <br />
 
 
 <br /><br />
