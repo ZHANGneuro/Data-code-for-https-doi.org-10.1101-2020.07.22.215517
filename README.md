@@ -49,20 +49,20 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- script_stand2fun.sh &emsp;  ``transforamtion script from standard space to native space`` <br />
 │&emsp;&emsp;&emsp;&emsp;<br />
 |-- script_matlab <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_FC_correlation.m &emsp; ``perform bandpass filtering on 4d bold signal series`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_FC_extract_targeting_TRs.m &emsp;  ``generate FSL fsf file for 1st level GLM analysis`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MRI_activity_volume_contrast.m &emsp;  ``transforamtion script from native space to standard space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_MRI_timingFile_generator.m &emsp;  ``permutation test using FSL randomize function`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_dicom2nii.m &emsp;  ``script for parallel process`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_number_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_number_mri.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_visual_angle_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_visual_angle_mri.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_eyeDate_gaze_anova_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_eyeDate_gaze_anova_mri2.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_fmri.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_meg.m &emsp;  ``transforamtion script from standard space to native space`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_mni_r_brain_session_averaged_from_glm.m &emsp;  ``transforamtion script from standard space to native space`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_FC_correlation.m &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_FC_extract_targeting_TRs.m &emsp;  ``extract RTs & generates targeting period 4-d data series for FC analysis`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MRI_activity_volume_contrast.m &emsp;  ``perform contrast in beta images of GLM model for each condition`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MRI_timingFile_generator.m &emsp;  ``generate standard FSL timing file for GLM analysis`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_dicom2nii.m &emsp;  ``format transformation from dicom to nii`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_number_meg.m &emsp;  ``extract number of fixation & saccade from MEG eye dataset`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_number_mri.m &emsp;  ``extract number of fixation & saccade from MRI eye dataset`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_visual_angle_meg.m &emsp;  ``extract position from MRI eye dataset`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeData_visual_angle_mri.m &emsp;  ``extract position from MEG eye dataset`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeDate_gaze_anova_meg.m &emsp;  ``extract gaze from MEG eye dataset`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_eyeDate_gaze_anova_mri2.m &emsp;  ``extract gaze from MRI eye dataset`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_fmri.m &emsp;  ``load behavioral data of MRI experiment`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_load_behavioral_table_meg.m &emsp;  ``load behavioral data of MEG experiment`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_mni_r_brain_session_averaged_from_glm.m &emsp;  ``generate mean MRI volume file across sessions for each subject`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_ploting_draw_colorbar.m &emsp;  ``plot colorbar given value distribution from contrast analysis`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_statistic_glm.m &emsp;  ``perform 2nd level group test (uncorrected)`` <br />
 
