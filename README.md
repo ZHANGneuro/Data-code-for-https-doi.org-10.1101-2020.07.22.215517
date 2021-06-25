@@ -22,16 +22,25 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 <br />
 .<br />
 |-- beh_eyedata_meg <br />
-│&emsp;&emsp;&emsp;&emsp;|-- sub_`No.`_s`No.`_rawdata.txt &emsp;  ``col indicates `sub_no` `exp_cond` `map_id` `enter_dir_id` `fac_cha_id` `tar_cha_id` `hn1_id` `hn2_id` `hn3_id` `prof_id` `ego_dir` `cue` `response` `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- sub_`No.`_s`No.`_rawdata.txt &emsp;  ``col indicates `sub_no` `exp_cond` `map_id` `enter_dir_id` `fac_cha_id` `tar_cha_id` `hn1_id` `hn2_id` `hn3_id` `prof_id` `ego_dir` `cue` `response` `` <br />
 │&emsp;&emsp;&emsp;&emsp;<br />
-│&emsp;&emsp;&emsp;&emsp;|-- sub_`No.`_s`No.`_timing.txt &emsp; ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response` `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- sub_`No.`_s`No.`_timing.txt &emsp; ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response` `` <br />
 │&emsp;&emsp;&emsp;&emsp;<br />
 |-- beh_eyedata_fmri <br />
-│&emsp;&emsp;&emsp;&emsp;|-- sub_`No.`_formal_rawdata.txt &emsp; ``col indicates `sub_no` `map_id` `enter_dir_id` `head nodding(HD)` `HD response` `HD outcome` `score` `fac_cha_id` `fac_dir_id` `target_dir` `tar_cha_id` `cue` `response` `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- sub_`No.`_formal_rawdata.txt &emsp; ``col indicates `sub_no` `map_id` `enter_dir_id` `head nodding(HD)` `HD response` `HD outcome` `score` `fac_cha_id` `fac_dir_id` `target_dir` `tar_cha_id` `cue` `response` `` <br />
 │&emsp;&emsp;&emsp;&emsp;<br />
-│&emsp;&emsp;&emsp;&emsp;|-- sub_`No.`_formal_Time_record_t.txt &emsp;  ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response`  `` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- sub_`No.`_formal_Time_record_t.txt &emsp;  ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response`  `` <br />
 
-        
+
+_rawdata.txt &emsp;  ``col indicates `sub_no` `exp_cond` `map_id` `enter_dir_id` `fac_cha_id` `tar_cha_id` `hn1_id` `hn2_id` `hn3_id` `prof_id` `ego_dir` `cue` `response` `` <br />
+│&emsp;&emsp;&emsp;&emsp;<br />
+│&emsp;&emsp;&emsp;&emsp; |-- sub_`No.`_s`No.`_timing.txt &emsp; ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response` `` <br />
+│&emsp;&emsp;&emsp;&emsp;<br />
+|-- beh_eyedata_fmri <br />
+│&emsp;&emsp;&emsp;&emsp; |-- sub_`No.`_formal_rawdata.txt &emsp; ``col indicates `sub_no` `map_id` `enter_dir_id` `head nodding(HD)` `HD response` `HD outcome` `score` `fac_cha_id` `fac_dir_id` `target_dir` `tar_cha_id` `cue` `response` `` <br />
+│&emsp;&emsp;&emsp;&emsp;<br />
+│&emsp;&emsp;&emsp;&emsp; |-- sub_`No.`_formal_Time_record_t.txt &emsp;  ``col indicates onsets of `ITI` `session id` `noise screen` `facing period` `noise screen` `targeting period` `noise screen` `cue` `response`  `` <br />
+
 
 <br /><br />
 ## Env & Dependency:
