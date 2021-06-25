@@ -65,7 +65,16 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- script_mni_r_brain_session_averaged_from_glm.m &emsp;  ``generate mean MRI volume file across sessions for each subject`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_ploting_draw_colorbar.m &emsp;  ``plot colorbar given value distribution from contrast analysis`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_statistic_glm.m &emsp;  ``perform 2nd level group test (uncorrected)`` <br />
-
+│&emsp;&emsp;&emsp;&emsp;<br />
+|-- script_py <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_morph_source_to_fsaverage.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_PLI.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_preprocessing_artificial.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_source_ROI_linechart.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_source_surface_plot.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_activity_contrast.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_activity_main_effect.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- script_MEG_topo_parietal_mask_linechart.py &emsp; ``perform correlation across brain between ROI and each brain voxel`` <br />
 
 <br /><br />
 ## Env & Dependency:
