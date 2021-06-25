@@ -14,6 +14,16 @@ MRI & MEG imaging data, eye data will be avaiable upon request due to their larg
 # Telephone: +86-10-62765734<br />
 ```
 
+``` diff
+diff --git a/filea.extension b/fileb.extension
+index d28nd309d..b3nu834uj 111111
+--- a/filea.extension
++++ b/fileb.extension
+@@ -1,6 +1,6 @@
+-oldLine
++newLine
+```
+
 <br /><br />
 ## Repository structure:
 Note: for more detailed code description or questions please contact bo.zhang@pku.edu.cn
