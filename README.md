@@ -5,13 +5,13 @@ doi: https://doi.org/10.1101/2020.07.22.215517
 <br /><br />
 MRI & MEG imaging data, eye data will be avaiable upon request due to their large file size. Please contact Dr. Yuji Naya in the following address:
 <br />
-```diff<br />
-# Yuji Naya (Corresponding author)<br />
-# Email: yujin@pku.edu.cn<br />
-# McGovern Institute for Brain Research, Peking University<br />
-# No. 52, Haidian Road, Wang Kezhen Building, Room 1707<br />
-# Haidian District, Beijing 100805, China <br />
-# Telephone: +86-10-62765734<br />
+```diff
+# Yuji Naya (Corresponding author)
+# Email: yujin@pku.edu.cn
+# McGovern Institute for Brain Research, Peking University
+# No. 52, Haidian Road, Wang Kezhen Building, Room 1707
+# Haidian District, Beijing 100805, China
+# Telephone: +86-10-62765734
 ```
 
 <br /><br />
