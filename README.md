@@ -37,7 +37,7 @@ Note: for more detailed code description or questions please contact bo.zhang@pk
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_number_mri.R &emsp;  ``plot number of fixation and saccade for fMRI data`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_meg.R &emsp;  ``plot position of fixation and saccade for MEG data`` <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_plot_eyedata_pos_barchart_mri.R &emsp;  ``plot position of fixation and saccade for fMRI data`` <br />
-│&emsp;&emsp;&emsp;&emsp; |-- script_plot_meg_beh.R &emsp;  ``plot behavioral performance for MEG and fMRI data`` <br />
+│&emsp;&emsp;&emsp;&emsp; |-- Yuji_bayesfactor.R &emsp;  ``Bayesian analyses including bayes factor, median and credible interval computation`` <br /> 
 │&emsp;&emsp;&emsp;&emsp;<br />
 |-- script_bash <br />
 │&emsp;&emsp;&emsp;&emsp; |-- script_bandpass_filtering.sh &emsp; ``perform bandpass filtering on 4d bold signal series`` <br />
